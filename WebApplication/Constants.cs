@@ -13,9 +13,9 @@
     public enum Permissions : int
     {
         NotSet = 0, //error condition
-        UtilityAccess = 1,
+        HomePageAccess = 1,
         AccessAll = 2,
-        UserDashboardAccess = 3,
+        AboutPageAccess = 3,
         AdminPrivileges = 4,
     }
 }
